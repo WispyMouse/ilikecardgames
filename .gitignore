@@ -1,2 +1,10 @@
 .vs/
 obj/
+bin/
+ILikeCardGames/ILikeCardGames/bin/Debug/net6.0/appsettings.json
+
+ILikeCardGames/ILikeCardGames/appsettings.json
+
+ILikeCardGames/ILikeCardGames/Properties/PublishProfiles/FTPProfile.pubxml
+
+ILikeCardGames/ILikeCardGames/Properties/PublishProfiles/FTPProfile.pubxml.user
